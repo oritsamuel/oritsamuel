@@ -27,7 +27,6 @@ Frontend developer focused on building clean, scalable web apps with **Next.js**
 A staff-only system to track customer visits and spending, unlocking rewards automatically.
 
 **Tech:** Next.js, Supabase
-👉 [View Repo](#)
 
 ---
 
@@ -36,7 +35,6 @@ A staff-only system to track customer visits and spending, unlocking rewards aut
 Phone number authentication system with OTP verification and account creation flow.
 
 **Tech:** Next.js
-👉 [View Repo](#)
 
 ---
 
@@ -45,7 +43,6 @@ Phone number authentication system with OTP verification and account creation fl
 A generalized tipping system decoupled from specific businesses, designed for scalability.
 
 **Tech:** Next.js, Supabase
-👉 [View Repo](#)
 
 ---
 
@@ -59,5 +56,5 @@ A generalized tipping system decoupled from specific businesses, designed for sc
 
 ## 📫 Contact
 
-* Email: [your@email.com](mailto:your@email.com)
-* LinkedIn: (add this if you have it)
+* Email: (mailto:oritsamuel21@gmail.com)
+* LinkedIn: https://linkedin.com/in/orit-samuel
