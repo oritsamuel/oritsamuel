@@ -28,7 +28,7 @@ A staff-only system to track customer visits and spending, unlocking rewards aut
 
 **Tech:** Next.js, Supabase
 
----
+👉 [View Repo](https://github.com/oritsamuel/loyalty-system)---
 
 ### 📱 OTP Authentication Flow
 
